@@ -1,1 +1,5 @@
-# knowledge-bases
+---
+title: Knowledgebases
+description: Knowledgebases
+slug: knowledgebases
+---
